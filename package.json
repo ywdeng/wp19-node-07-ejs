@@ -1,0 +1,15 @@
+{
+  "name": "07-ejs",
+  "version": "1.0.0",
+  "description": "A Example for EJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "set DEBUG=07-ejs:* & nodemon index.js"
+  },
+  "author": "ywdeng",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
